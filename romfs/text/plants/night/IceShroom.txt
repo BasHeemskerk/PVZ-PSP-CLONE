@@ -1,0 +1,12 @@
+Ice-shroom
+
+
+Ice-shrooms temporarily immobilize all zombies on the screen.
+
+Damage: very light, immobilizes zombies
+Range: all zombies on the screen
+Usage: single use, instant
+
+Sleeps during the day
+
+Ice-shroom frowns, not because he's unhappy or because he disapproves, but because of a childhood injury that left his facial nerves paralyzed.

@@ -1,0 +1,9 @@
+Squash
+
+Squashes will smash the first zombie that gets close to it.
+
+Damage: massive
+Range: short range, hits all zombies that it lands on
+Usage: single use
+
+"I'm ready!" yells Squash. "Let's do it! Put me in! There's nobody better! I'm your guy! C'mon! Whaddya waiting for? I need this!"

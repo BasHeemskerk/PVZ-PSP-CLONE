@@ -1,0 +1,9 @@
+Spikeweed
+
+Spikeweeds pop tires and hurt any zombies that step on them.
+
+Damage: normal
+Range: all zombies that walk over it
+Special: can't be eaten by zombies
+
+Hockey is Spikeweed's obsession. He's got box seat season tickets. He keeps close track of his favorite players. And he consistently cleans up in the office hockey pool. Just one problem: he's terrified of pucks.

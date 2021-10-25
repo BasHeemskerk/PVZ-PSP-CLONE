@@ -1,0 +1,8 @@
+Starfruit
+
+Starfruits shoot stars in five directions.
+
+Damage: normal
+Range: five directions
+
+"Aw, man," says Starfruit. "I went to the dentist the other day and he said I have four cavities. I've got --count it-- ONE tooth! Four cavities in one tooth? How does this happen?"

@@ -1,0 +1,10 @@
+Fume-shroom
+
+Fume-shrooms shoot fumes that can pass through screen doors.
+
+Damage: normal, penetrates screen doors
+Range: all zombies in the fume cloud
+
+Sleeps during the day
+
+"I was in a dead-end job producing yeast spores for a bakery," says Fume-shroom. "Then Puff-shroom, bless 'im, told me about this great opportunity blasting zombies. Now I really feel like I'm making a difference."

@@ -1,0 +1,10 @@
+Puff-shroom
+
+Puff-shrooms are cheap, but can only fire a short distance.
+
+Damage: normal
+Range: short
+
+Sleeps during the day
+
+"I only recently became aware of the existence of zombies," says Puff-shroom. "Like many fungi, I'd just assumed they were fairy tales or movie monsters. This whole experience has been a huge eye-opener for me."

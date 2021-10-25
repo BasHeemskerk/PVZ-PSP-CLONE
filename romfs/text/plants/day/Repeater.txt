@@ -1,0 +1,8 @@
+Repeater
+
+Repeaters fire two peas at a time.
+
+Damage: normal (for each pea)
+Firing Speed: 2x
+
+Repeater is fierce. He's from the streets. He doesn't take attitude from anybody, plant or zombie, and he shoots peas to keep people at a distance. Secretly, though, Repeater yearns for love.

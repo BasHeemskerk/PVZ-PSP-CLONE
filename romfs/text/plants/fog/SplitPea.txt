@@ -1,0 +1,9 @@
+Split pea
+
+Split Peas shoot peas forward and backwards.
+
+Damage: normal
+Range: forward and backwards
+Firing Speed: 1x forward, 2x backwards
+
+"Yeah, I'm a Gemini," says Split Pea. "I know, big surprise. But having two heads --or really, one head with a large head-like growth on the back-- pays off big in my line of work."

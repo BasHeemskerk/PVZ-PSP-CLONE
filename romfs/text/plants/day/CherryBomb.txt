@@ -1,0 +1,9 @@
+Cherry bomb
+
+Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.
+
+Damage: massive
+Range: all zombies in a medium area
+Usage: single use, instant
+
+"I wanna explode," says Cherry #1. "No, let's detonate instead!" says his brother, Cherry #2. After intense consultation they agree to explodonate.

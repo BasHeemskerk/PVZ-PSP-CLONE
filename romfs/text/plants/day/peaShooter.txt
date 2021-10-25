@@ -1,0 +1,7 @@
+Peashooter
+
+Peashooters are your first line of defense. They shoot peas at attacking zombies.
+
+Damage: normal
+
+How can a single plant grow and so many peas so quickly? Peashooter says, "Hard work, commitment, and a healthy well-balanced breakfast of sunlight and high-fiber carbon dioxide make it all possible."

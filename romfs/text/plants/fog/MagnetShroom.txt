@@ -1,0 +1,10 @@
+Magnet-shroom
+
+Magnet-shrooms remove helmets and other metal objects from zombies.
+
+Range: nearby zombies
+Special: removes helmets and other metal objects from zombies
+
+Sleeps during the day
+
+Magnetism is a powerful force. Very powerful. Sometimes it scares Magnet-shroom a little. He's not sure if he can handle that kind of responsibility.

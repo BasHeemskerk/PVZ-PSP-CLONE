@@ -1,0 +1,12 @@
+Doom-shroom
+
+Doom-shrooms destroy everything in a large area and leave a crater that can't be planted on.
+
+Damage: massive
+Range: all zombies in a huge area
+Usage: single use, instant
+Special: leaves a crater
+
+Sleeps during the day
+
+"You're lucky I'm on your side," says Doom-shroom. "I could destroy everything you hold dear. It wouldn't be hard."

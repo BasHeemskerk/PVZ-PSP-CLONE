@@ -1,0 +1,10 @@
+Hypno-shroom
+
+When eaten, Hypno-shrooms will make a zombie turn around and fight for you.
+
+Usage: single use, on contact
+Special: makes a zombie fight for you
+
+Sleeps during the day
+
+"Zombies are our friends," asserts Hypno-shroom. "They're badly misunderstood creatures who play a valuable role in our ecology. We can and should do more to bring them round to our way of thinking."

@@ -1,0 +1,7 @@
+Torchwood
+
+Torchwoods turn peas that pass through them into fireballs that deal twice as much damage.
+
+Special: doubles the damage of peas that pass through it. Fireballs deal damage to nearby zombies on impact
+
+Everybody likes and respects Torchwood. They like him for his integrity, for his steadfast friendship, for his ability to greatly maximize pea damage. But Torchwood has a secret: he can't read.

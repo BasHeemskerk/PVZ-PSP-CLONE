@@ -1,0 +1,11 @@
+Sea-shroom
+
+
+Sea-shrooms are aquatic plants that shoot short ranged spores.
+
+Damage: normal
+Range: short
+
+Must be planted in water
+
+Sleeps during the day Sea-shroom has never seen the sea. It's in his name, he's heard loads about it, but he's just never found the time. One day, though, it'll go down.

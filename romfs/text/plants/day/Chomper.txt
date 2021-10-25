@@ -1,0 +1,9 @@
+Chomper
+
+Chompers can devour a zombie whole, but they are vulnerable while chewing.
+
+Damage: massive
+Range: very short
+Special: long delay between chomps
+
+Chomper almost got a gig doing stunts for The Little Shop of Horrors but it fell through when his agent demanded too much on the front end. Chomper's not resentful, though. He says it's just part of the business.
